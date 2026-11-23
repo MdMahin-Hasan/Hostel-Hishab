@@ -1,11 +1,5 @@
 # HostelHisab (Flutter + Provider)
 
-## Run
-1. `flutter create hostel_hisab`   (use package name `hostel_hisab`)
-2. Delete the generated `lib/` and `test/widget_test.dart`
-3. Copy this `lib/` and `test/` into the project
-4. `flutter pub add provider google_fonts`
-5. `flutter run`  - login with any phone + a password of 4+ characters
 
 ## Folder structure (data / domain / presentation)
 lib/
